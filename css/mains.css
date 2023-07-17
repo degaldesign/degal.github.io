@@ -36,7 +36,7 @@
 
 
 html, body{
-  position: fixed;
+  overflow-x: hidden;
   background-color: white;
   font-family:  "SegoeUI-Light"; 
   color:black;
