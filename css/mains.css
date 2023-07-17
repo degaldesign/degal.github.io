@@ -1,7 +1,7 @@
 @font-face {
   font-family: "SegoeUI-Light";
   src: url("../SegoeUI-Light.ttf");
-  src: url("../SegoeUI-Light.ttf?lefix") format("truetype")
+  src: url("../SegoeUI-Light.ttf?lefix") format("truetype") 
 }
 @font-face {
   font-family: "SegoeUI";
