@@ -299,6 +299,12 @@ max-height: 1500px;
   .subtitle {
     font-size: 23px
   }
+  .header {
+    height: 200px
+  }
+  .big {
+    height: 160px
+  }
   
 }
 
