@@ -307,6 +307,9 @@ max-height: 1500px;
   . menuu {
     margin-top: 200px;
   }
+  .loader {
+    scale: 1.5;
+  }
 }
 
 .card img {
